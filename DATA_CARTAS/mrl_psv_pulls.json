@@ -1,0 +1,68 @@
+{
+    "Magic Ruler (24 Cajas)": {
+        "Secret Rares": {
+            "Blue-Eyes Toon Dragon": 6,
+            "Serpent Night Dragon": 6
+        },
+        "Ultra Rares": {
+            "Relinquished": 5,
+            "Confiscation": 7,
+            "The Forceful Sentry": 3,
+            "Delinquent Duo": 6,
+            "Maha Vailo": 4,
+            "Spellbinding Circle": 2,
+            "Black Illusion Ritual": 6,
+            "Axe of Despair": 9,
+            "Toon Summoned Skull": 2,
+            "Snatch Steal": 4
+        },
+        "Super Rares": {
+            "Painful Choice": 12,
+            "Toon World": 6,
+            "Cyber Jar": 13,
+            "Gradius": 7,
+            "Toll": 10,
+            "Banisher of the Light": 10,
+            "Megamorph": 8,
+            "Mystical Space Typhoon": 10,
+            "Giant Trunade": 11,
+            "Messenger of Peace": 9
+        },
+        "Key Rares": {
+            "Mystic Tomato": 37,
+            "Shining Angel": 44,
+            "Giant Rat": 34,
+            "Nimble Momonga": 47,
+            "Upstart Goblin": 32
+        }
+    },
+    "Pharaoh's Servant (24 Cajas)": {
+        "Secret Rares": {
+            "Imperial Order": 8,
+            "Jinzo": 4
+        },
+        "Ultra Rares": {
+            "Nobleman of Crossout": 12,
+            "Ceasefire": 7,
+            "Beast of Talwar": 6,
+            "The Fiend Megacyber": 6,
+            "Premature Burial": 4,
+            "Buster Blader": 5,
+            "Gearfried the Iron Knight": 6,
+            "Call of the Haunted": 2
+        },
+        "Super Rares": {
+            "Goblin Attack Force": 11,
+            "Limiter Removal": 18,
+            "Hayabusa Knight": 19,
+            "Mirror Wall": 14,
+            "Gravity Bind": 18,
+            "Enchanted Javelin": 16
+        },
+        "Key Rares": {
+            "Morphing Jar #2": 73,
+            "Lightforce Sword": 81,
+            "Prohibition": 83
+        }
+    }
+}

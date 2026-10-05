@@ -1,0 +1,72 @@
+Total cartas abiertas en 8 cajas: 1728
+
+[CAJA LOB #1]:
+  [Super Rare] Flame Swordsman
+  [Super Rare] Flame Swordsman
+  [Super Rare] Right Leg of the Forbidden One
+  [Super Rare] Right Leg of the Forbidden One
+  [Ultra Rare] Exodia the Forbidden One
+  [Ultra Rare] Polymerization
+  [Ultra Rare] Polymerization
+  [Super Rare] Right Leg of the Forbidden One
+  [Ultra Rare] Dark Magician
+  [Super Rare] Man-Eater Bug
+
+[CAJA LOB #2]:
+  [Ultra Rare] Swords of Revealing Light
+  [Super Rare] Pot of Greed
+  [Super Rare] Man-Eater Bug
+  [Super Rare] Left Arm of the Forbidden One
+  [Ultra Rare] Raigeki
+  [Super Rare] Curse of Dragon
+  [Super Rare] Right Arm of the Forbidden One
+
+[CAJA LOB #3]:
+  [Super Rare] Right Leg of the Forbidden One
+  [Super Rare] Fissure
+  [Super Rare] Fissure
+  [Super Rare] Curse of Dragon
+  [Secret Rare] Gaia the Dragon Champion
+
+[CAJA LOB #4]:
+  [Ultra Rare] Swords of Revealing Light
+  [Super Rare] Pot of Greed
+  [Super Rare] Man-Eater Bug
+  [Ultra Rare] Swords of Revealing Light
+  [Super Rare] Left Leg of the Forbidden One
+
+[CAJA MRD #1]:
+  [Secret Rare] Thousand Dragon
+  [Super Rare] Kuriboh
+  [Ultra Rare] Solemn Judgment
+  [Secret Rare] Gate Guardian
+  [Ultra Rare] Heavy Storm
+  [Super Rare] Magic Jammer
+  [Secret Rare] Gate Guardian
+  [Super Rare] Kuriboh
+
+[CAJA MRD #2]:
+  [Super Rare] Magician of Faith
+  [Ultra Rare] Barrel Dragon
+  [Super Rare] Witch of the Black Forest
+  [Ultra Rare] Harpie Lady Sisters
+  [Ultra Rare] Solemn Judgment
+  [Super Rare] Magic Jammer
+
+[CAJA MRD #3]:
+  [Super Rare] Sangan
+  [Ultra Rare] Tribute to The Doomed
+  [Ultra Rare] Heavy Storm
+  [Ultra Rare] Solemn Judgment
+  [Ultra Rare] Tribute to The Doomed
+  [Secret Rare] Thousand Dragon
+  [Super Rare] Magician of Faith
+  [Super Rare] Catapult Turtle
+  [Super Rare] Sangan
+
+[CAJA MRD #4]:
+  [Super Rare] Magician of Faith
+  [Ultra Rare] Mirror Force
+  [Super Rare] Robbin' Goblin
+  [Ultra Rare] B. Skull Dragon
+  [Super Rare] Sangan

@@ -1,0 +1,797 @@
+{
+  "Chaos Emperor Dragon - Envoy of the End": {
+    "name": "Chaos Emperor Dragon - Envoy of the End",
+    "type": "Effect Monster",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn: You can pay 1000 LP; send as many cards in both players' hands and on the field as possible to the GY, then inflict 300 damage to your opponent for each card sent to the opponent's GY by this effect. You cannot activate other cards or effects during the turn you activate this card's effect.",
+    "atk": 3000,
+    "def": 2500,
+    "level": 8,
+    "race": "Dragon",
+    "attribute": "DARK"
+  },
+  "Black Luster Soldier - Envoy of the Beginning": {
+    "name": "Black Luster Soldier - Envoy of the Beginning",
+    "type": "Effect Monster",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY. Once per turn, you can activate 1 of these effects.\r\n● Target 1 monster on the field; banish it. This card cannot attack the turn this effect is activated.\r\n● If this attacking card destroys an opponent's monster by battle: It can make a second attack in a row.",
+    "atk": 3000,
+    "def": 2500,
+    "level": 8,
+    "race": "Warrior",
+    "attribute": "LIGHT"
+  },
+  "Jinzo": {
+    "name": "Jinzo",
+    "type": "Effect Monster",
+    "desc": "Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field.",
+    "atk": 2400,
+    "def": 1500,
+    "level": 6,
+    "race": "Machine",
+    "attribute": "DARK"
+  },
+  "Yata-Garasu": {
+    "name": "Yata-Garasu",
+    "type": "Spirit Monster",
+    "desc": "This card cannot be Special Summoned. This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. When this card inflicts Battle Damage to your opponent, they skip their next Draw Phase.",
+    "atk": 200,
+    "def": 100,
+    "level": 2,
+    "race": "Fiend",
+    "attribute": "WIND"
+  },
+  "Breaker the Magical Warrior": {
+    "name": "Breaker the Magical Warrior",
+    "type": "Effect Monster",
+    "desc": "If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). Gains 300 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap on the field; destroy that target.",
+    "atk": 1600,
+    "def": 1000,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "DARK"
+  },
+  "Tribe-Infecting Virus": {
+    "name": "Tribe-Infecting Virus",
+    "type": "Effect Monster",
+    "desc": "Discard 1 card from your hand and declare 1 Type of monster. Destroy all face-up monsters of the declared Type on the field.",
+    "atk": 1600,
+    "def": 1000,
+    "level": 4,
+    "race": "Aqua",
+    "attribute": "WATER"
+  },
+  "Injection Fairy Lily": {
+    "name": "Injection Fairy Lily",
+    "type": "Effect Monster",
+    "desc": "If this card attacks or is attacked, during damage calculation (in either player's turn): You can pay 2000 LP once per battle; this card gains 3000 ATK during that damage calculation only.",
+    "atk": 400,
+    "def": 1500,
+    "level": 3,
+    "race": "Spellcaster",
+    "attribute": "EARTH"
+  },
+  "Spirit Reaper": {
+    "name": "Spirit Reaper",
+    "type": "Effect Monster",
+    "desc": "Cannot be destroyed by battle. After resolving a card effect that targets this face-up card, destroy this card. When this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from their hand.",
+    "atk": 300,
+    "def": 200,
+    "level": 3,
+    "race": "Zombie",
+    "attribute": "DARK"
+  },
+  "Don Zaloog": {
+    "name": "Don Zaloog",
+    "type": "Effect Monster",
+    "desc": "When this card inflicts battle damage to your opponent: You can activate 1 of these effects;\r\n● Discard 1 random card from their hand.\r\n● Send the top 2 cards of their Deck to the GY.",
+    "atk": 1400,
+    "def": 1500,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "DARK"
+  },
+  "Sangan": {
+    "name": "Sangan",
+    "type": "Effect Monster",
+    "desc": "If this card is sent from the field to the GY: Add 1 monster with 1500 or less ATK from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of \"Sangan\" once per turn.",
+    "atk": 1000,
+    "def": 600,
+    "level": 3,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Witch of the Black Forest": {
+    "name": "Witch of the Black Forest",
+    "type": "Effect Monster",
+    "desc": "If this card is sent from the field to the GY: Add 1 monster with 1500 or less DEF from your Deck to your hand, but you cannot activate cards, or the effects of cards, with that name for the rest of this turn. You can only use this effect of \"Witch of the Black Forest\" once per turn.",
+    "atk": 1100,
+    "def": 1200,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "DARK"
+  },
+  "Magician of Faith": {
+    "name": "Magician of Faith",
+    "type": "Flip Effect Monster",
+    "desc": "FLIP: Target 1 Spell in your GY; add that target to your hand.",
+    "atk": 300,
+    "def": 400,
+    "level": 1,
+    "race": "Spellcaster",
+    "attribute": "LIGHT"
+  },
+  "Cyber Jar": {
+    "name": "Cyber Jar",
+    "type": "Flip Effect Monster",
+    "desc": "FLIP: Destroy all monsters on the field, then both players reveal the top 5 cards from their Decks, then Special Summon all revealed Level 4 or lower monsters in face-up Attack Position or face-down Defense Position, also add any remaining cards to their hand. (If either player has less than 5 cards in their Deck, reveal as many as possible.)",
+    "atk": 900,
+    "def": 900,
+    "level": 3,
+    "race": "Rock",
+    "attribute": "DARK"
+  },
+  "Fiber Jar": {
+    "name": "Fiber Jar",
+    "type": "Flip Effect Monster",
+    "desc": "FLIP: Each player shuffles all cards from their hand, field, and Graveyard into the Deck, then draws 5 cards.",
+    "atk": 500,
+    "def": 500,
+    "level": 3,
+    "race": "Plant",
+    "attribute": "EARTH"
+  },
+  "Painful Choice": {
+    "name": "Painful Choice",
+    "type": "Spell Card",
+    "desc": "Select 5 cards from your Deck and show them to your opponent. Your opponent selects 1 card among them. Add that card to your hand and discard the remaining cards to the Graveyard.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Graceful Charity": {
+    "name": "Graceful Charity",
+    "type": "Spell Card",
+    "desc": "Draw 3 cards, then discard 2 cards.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Pot of Greed": {
+    "name": "Pot of Greed",
+    "type": "Spell Card",
+    "desc": "Draw 2 cards.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Delinquent Duo": {
+    "name": "Delinquent Duo",
+    "type": "Spell Card",
+    "desc": "Pay 1000 LP; your opponent discards 1 random card, and if they have any other cards in their hand, discard 1 more card of their choice.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "The Forceful Sentry": {
+    "name": "The Forceful Sentry",
+    "type": "Spell Card",
+    "desc": "Look at your opponent's hand. Select 1 card among them and return it to his/her Deck. The Deck is then shuffled.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Harpie's Feather Duster": {
+    "name": "Harpie's Feather Duster",
+    "type": "Spell Card",
+    "desc": "Destroy all Spell and Trap Cards your opponent controls.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Raigeki": {
+    "name": "Raigeki",
+    "type": "Spell Card",
+    "desc": "Destroy all monsters your opponent controls.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Dark Hole": {
+    "name": "Dark Hole",
+    "type": "Spell Card",
+    "desc": "Destroy all monsters on the field.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Dimension Fusion": {
+    "name": "Dimension Fusion",
+    "type": "Spell Card",
+    "desc": "Pay 2000 Life Points. Both players Special Summon as many of their removed from play monsters as possible.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Snatch Steal": {
+    "name": "Snatch Steal",
+    "type": "Spell Card",
+    "desc": "Equip only to a monster your opponent controls. Take control of the equipped monster. During each of your opponent's Standby Phases: They gain 1000 Life Points.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Equip",
+    "attribute": null
+  },
+  "Change of Heart": {
+    "name": "Change of Heart",
+    "type": "Spell Card",
+    "desc": "Target 1 monster your opponent controls; take control of it until the End Phase.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Premature Burial": {
+    "name": "Premature Burial",
+    "type": "Spell Card",
+    "desc": "Activate this card by paying 800 LP, then target 1 monster in your Graveyard; Special Summon that target in Attack Position and equip it with this card. When this card is destroyed, destroy the equipped monster.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Equip",
+    "attribute": null
+  },
+  "Book of Moon": {
+    "name": "Book of Moon",
+    "type": "Spell Card",
+    "desc": "Target 1 face-up monster on the field; change that target to face-down Defense Position.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Quick-Play",
+    "attribute": null
+  },
+  "Reinforcement of the Army": {
+    "name": "Reinforcement of the Army",
+    "status": "Anime/Especial",
+    "desc": "Carta exclusiva o con nombre de anime"
+  },
+  "United We Stand": {
+    "name": "United We Stand",
+    "type": "Spell Card",
+    "desc": "The equipped monster gains 800 ATK/DEF for each face-up monster you control.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Equip",
+    "attribute": null
+  },
+  "Nobleman of Crossout": {
+    "name": "Nobleman of Crossout",
+    "type": "Spell Card",
+    "desc": "Target 1 face-down monster on the field; destroy that target, and if you do, banish it, then, if it was a Flip monster, each player reveals their Main Deck, then banishes all cards from it with that monster's name.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Ring of Destruction": {
+    "name": "Ring of Destruction",
+    "type": "Trap Card",
+    "desc": "During your opponent's turn: Target 1 face-up monster your opponent controls whose ATK is less than or equal to their LP; destroy that face-up monster, and if you do, take damage equal to its original ATK, then inflict damage to your opponent, equal to the damage you took. You can only activate 1 \"Ring of Destruction\" per turn.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Mirror Force": {
+    "name": "Mirror Force",
+    "type": "Trap Card",
+    "desc": "When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Torrential Tribute": {
+    "name": "Torrential Tribute",
+    "type": "Trap Card",
+    "desc": "When a monster(s) is Summoned: Destroy all monsters on the field.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Imperial Order": {
+    "name": "Imperial Order",
+    "type": "Trap Card",
+    "desc": "Negate all Spell effects on the field. Once per turn, during the Standby Phase, you must pay 700 LP (this is not optional), or this card is destroyed.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Continuous",
+    "attribute": null
+  },
+  "Solemn Judgment": {
+    "name": "Solemn Judgment",
+    "type": "Trap Card",
+    "desc": "When a monster(s) would be Summoned, OR a Spell/Trap Card is activated: Pay half your LP; negate the Summon or activation, and if you do, destroy that card.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Counter",
+    "attribute": null
+  },
+  "Magic Cylinder": {
+    "name": "Magic Cylinder",
+    "type": "Trap Card",
+    "desc": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict damage to your opponent equal to its ATK.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Robbin' Goblin": {
+    "name": "Robbin' Goblin",
+    "type": "Trap Card",
+    "desc": "Each time a monster you control inflicts Battle Damage to your opponent, your opponent discards 1 random card.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Continuous",
+    "attribute": null
+  },
+  "Graceful Dice": {
+    "name": "Graceful Dice",
+    "type": "Spell Card",
+    "desc": "Roll a six-sided die. All monsters you currently control gain ATK/DEF equal to the result x 100, until the end of this turn.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Quick-Play",
+    "attribute": null
+  },
+  "Skull Dice": {
+    "name": "Skull Dice",
+    "type": "Trap Card",
+    "desc": "Roll a six-sided die. All monsters your opponent currently controls lose ATK/DEF equal to the result x 100, until the end of this turn.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Time Wizard": {
+    "name": "Time Wizard",
+    "type": "Effect Monster",
+    "desc": "Once per turn: You can toss a coin and call it. If you call it right, destroy all monsters your opponent controls. If you call it wrong, destroy as many monsters you control as possible, and if you do, take damage equal to half the total ATK those destroyed monsters had while face-up on the field.",
+    "atk": 500,
+    "def": 400,
+    "level": 2,
+    "race": "Spellcaster",
+    "attribute": "LIGHT"
+  },
+  "Baby Dragon": {
+    "name": "Baby Dragon",
+    "type": "Normal Monster",
+    "desc": "Much more than just a child, this dragon is gifted with untapped power.",
+    "atk": 1200,
+    "def": 700,
+    "level": 3,
+    "race": "Dragon",
+    "attribute": "WIND"
+  },
+  "Thousand Dragon": {
+    "name": "Thousand Dragon",
+    "type": "Fusion Monster",
+    "desc": "\"Time Wizard\" + \"Baby Dragon\"",
+    "atk": 2400,
+    "def": 2000,
+    "level": 7,
+    "race": "Dragon",
+    "attribute": "WIND"
+  },
+  "Gearfried the Iron Knight": {
+    "name": "Gearfried the Iron Knight",
+    "type": "Effect Monster",
+    "desc": "If either player equips an Equip Card(s) to this card: Destroy that Equip Card(s).",
+    "atk": 1800,
+    "def": 1600,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Marauding Captain": {
+    "name": "Marauding Captain",
+    "type": "Effect Monster",
+    "desc": "Your opponent cannot target Warrior monsters for attacks, except this one. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand.",
+    "atk": 1200,
+    "def": 400,
+    "level": 3,
+    "race": "Warrior",
+    "attribute": "EARTH"
+  },
+  "Blade Knight": {
+    "name": "Blade Knight",
+    "type": "Effect Monster",
+    "desc": "Gains 400 ATK while you have 1 or less cards in your hand. If you control no other monsters, the effects of Flip monsters destroyed by battle with this card are negated.",
+    "atk": 1600,
+    "def": 1000,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "LIGHT"
+  },
+  "Gilford the Lightning": {
+    "name": "Gilford the Lightning",
+    "type": "Effect Monster",
+    "desc": "You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If Summoned this way: Destroy all monsters your opponent controls.",
+    "atk": 2800,
+    "def": 1400,
+    "level": 8,
+    "race": "Warrior",
+    "attribute": "LIGHT"
+  },
+  "Roulette Spider": {
+    "name": "Roulette Spider",
+    "type": "Spell Card",
+    "desc": "When an opponent's monster declares an attack: Roll a six-sided die and apply the result.\n1: Halve your LP.\n2: Make that attack a direct attack.\n3: Choose 1 monster you control, change the attack target to it, and perform damage calculation.\n4: Choose 1 other monster your opponent controls, change the attack target to it, and perform damage calculation.\n5: Negate the attack, and if you do, inflict damage to your opponent equal to that monster's ATK.\n6: Destroy that opponent's monster.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Quick-Play",
+    "attribute": null
+  },
+  "Rocket Warrior": {
+    "name": "Rocket Warrior",
+    "type": "Effect Monster",
+    "desc": "During your Battle Phase, this card cannot be destroyed by battle and you take no battle damage from attacks involving this card. If this card attacks a monster, after damage calculation: That attack target loses 500 ATK until the end of this turn.",
+    "atk": 1500,
+    "def": 1300,
+    "level": 4,
+    "race": "Warrior",
+    "attribute": "LIGHT"
+  },
+  "Alligator's Sword": {
+    "name": "Alligator's Sword",
+    "type": "Normal Monster",
+    "desc": "ey, dis mighty lissard man can swing his sword so fast, dat it's more dan da speed a sound!",
+    "atk": 1500,
+    "def": 1200,
+    "level": 4,
+    "race": "Beast",
+    "attribute": "EARTH"
+  },
+  "Panther Warrior": {
+    "name": "Panther Warrior",
+    "type": "Effect Monster",
+    "desc": "This card cannot declare an attack unless you Tribute 1 monster.",
+    "atk": 2000,
+    "def": 1600,
+    "level": 4,
+    "race": "Beast-Warrior",
+    "attribute": "EARTH"
+  },
+  "Kunai with Chain": {
+    "name": "Kunai with Chain",
+    "type": "Trap Card",
+    "desc": "Activate 1 or both of these effects (simultaneously).\n● When an opponent's monster declares an attack: Target the attacking monster; change that target to Defense Position.\n● Target 1 face-up monster you control; equip this card to that target. It gains 500 ATK.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Fairy Box": {
+    "name": "Fairy Box",
+    "type": "Trap Card",
+    "desc": "When your opponent's monster declares an attack: Toss a coin and call it. If you call it right, the attacking monster's ATK becomes 0 until the end of the Battle Phase. During each of your Standby Phases, pay 500 Life Points or destroy this card.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Continuous",
+    "attribute": null
+  },
+  "Needle Worm": {
+    "name": "Needle Worm",
+    "type": "Flip Effect Monster",
+    "desc": "FLIP: Send the top 5 cards of your opponent's Deck to the Graveyard.",
+    "atk": 750,
+    "def": 600,
+    "level": 2,
+    "race": "Insect",
+    "attribute": "EARTH"
+  },
+  "Morphing Jar": {
+    "name": "Morphing Jar",
+    "type": "Flip Effect Monster",
+    "desc": "FLIP: Both players discard as many cards as possible from their hands, then each player draws 5 cards.",
+    "atk": 700,
+    "def": 600,
+    "level": 2,
+    "race": "Rock",
+    "attribute": "EARTH"
+  },
+  "Morphing Jar #2": {
+    "name": "Morphing Jar #2",
+    "type": "Flip Effect Monster",
+    "desc": "FLIP: Shuffle all monsters on the field into the Deck. Then, each player excavates cards from the top of their Deck, until they excavate the same number of monsters they shuffled into their Main Deck. Special Summon all excavated Level 4 or lower monsters in face-down Defense Position, also send the remaining cards to the Graveyard.",
+    "atk": 800,
+    "def": 700,
+    "level": 3,
+    "race": "Rock",
+    "attribute": "EARTH"
+  },
+  "Hiro's Shadow Scout": {
+    "name": "Hiro's Shadow Scout",
+    "type": "Flip Effect Monster",
+    "desc": "FLIP: Your opponent draws 3 cards. Both players look at the cards. If there are any Spell Cards among them, discard all those Spell Card(s) to the Graveyard.",
+    "atk": 650,
+    "def": 500,
+    "level": 2,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Tsukuyomi": {
+    "name": "Tsukuyomi",
+    "type": "Spirit Monster",
+    "desc": "Cannot be Special Summoned. If this card is Normal Summoned or flipped face-up: Target 1 face-up monster on the field; change that target to face-down Defense Position. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.",
+    "atk": 1100,
+    "def": 1400,
+    "level": 4,
+    "race": "Spellcaster",
+    "attribute": "DARK"
+  },
+  "The Bistro Butcher": {
+    "name": "The Bistro Butcher",
+    "type": "Effect Monster",
+    "desc": "When this card inflicts Battle Damage to your opponent, your opponent draws 2 cards.",
+    "atk": 1800,
+    "def": 1000,
+    "level": 4,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Spear Cretan": {
+    "name": "Spear Cretan",
+    "status": "Anime/Especial",
+    "desc": "Carta exclusiva o con nombre de anime"
+  },
+  "Night Assailant": {
+    "name": "Night Assailant",
+    "type": "Flip Effect Monster",
+    "desc": "FLIP: Target 1 monster your opponent controls; destroy that target.\nWhen this card is sent from the hand to the Graveyard: Target 1 Flip Effect Monster in your Graveyard, except this card; return that target to the hand.",
+    "atk": 200,
+    "def": 500,
+    "level": 3,
+    "race": "Fiend",
+    "attribute": "DARK"
+  },
+  "Book of Taiyou": {
+    "name": "Book of Taiyou",
+    "type": "Spell Card",
+    "desc": "Flip 1 face-down monster on the field into face-up Attack Position.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Card Destruction": {
+    "name": "Card Destruction",
+    "type": "Spell Card",
+    "desc": "Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "The Shallow Grave": {
+    "name": "The Shallow Grave",
+    "type": "Spell Card",
+    "desc": "Each player targets 1 monster in their own GY; each player Special Summons the target from their GY in face-down Defense Position.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Swords of Revealing Light": {
+    "name": "Swords of Revealing Light",
+    "type": "Spell Card",
+    "desc": "After this card's activation, it remains on the field, but you must destroy it during the End Phase of your opponent's 3rd turn. When this card is activated: If your opponent controls a face-down monster, flip all monsters they control face-up. While this card is face-up on the field, your opponent's monsters cannot declare an attack.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Messenger of Peace": {
+    "name": "Messenger of Peace",
+    "type": "Spell Card",
+    "desc": "Monsters with 1500 or more ATK cannot declare an attack. Once per turn, during your Standby Phase, pay 100 LP or destroy this card.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Continuous",
+    "attribute": null
+  },
+  "Level Limit - Area B": {
+    "name": "Level Limit - Area B",
+    "type": "Spell Card",
+    "desc": "Change all face-up Level 4 or higher monsters to Defense Position.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Continuous",
+    "attribute": null
+  },
+  "Gravity Bind": {
+    "name": "Gravity Bind",
+    "type": "Trap Card",
+    "desc": "Level 4 or higher monsters cannot attack.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Continuous",
+    "attribute": null
+  },
+  "Desert Sunlight": {
+    "name": "Desert Sunlight",
+    "type": "Trap Card",
+    "desc": "All monsters on your side of the field are changed to face-up Defense Position.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Waboku": {
+    "name": "Waboku",
+    "type": "Trap Card",
+    "desc": "You take no battle damage from your opponent's monsters this turn. Your monsters cannot be destroyed by battle this turn.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Threatening Roar": {
+    "name": "Threatening Roar",
+    "type": "Trap Card",
+    "desc": "Your opponent cannot declare an attack this turn.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Luster Dragon": {
+    "name": "Luster Dragon",
+    "type": "Normal Monster",
+    "desc": "A very beautiful dragon covered with sapphire. It does not like fights, but has incredibly high attack power.",
+    "atk": 1900,
+    "def": 1600,
+    "level": 4,
+    "race": "Dragon",
+    "attribute": "WIND"
+  },
+  "Twin-Headed Behemoth": {
+    "name": "Twin-Headed Behemoth",
+    "type": "Effect Monster",
+    "desc": "During the End Phase, if this card is in the GY because it was destroyed on the field and sent there this turn: You can Special Summon this card, but its ATK/DEF become 1000. You can only use this effect of \"Twin-Headed Behemoth\" once per Duel.",
+    "atk": 1500,
+    "def": 1200,
+    "level": 3,
+    "race": "Dragon",
+    "attribute": "WIND"
+  },
+  "Dragon Lady": {
+    "name": "Dragon Lady",
+    "status": "Anime/Especial",
+    "desc": "Carta exclusiva o con nombre de anime"
+  },
+  "Super Rejuvenation": {
+    "name": "Super Rejuvenation",
+    "type": "Spell Card",
+    "desc": "During the End Phase of the turn this card was activated, draw a number of cards equal to the combined number of Dragon monsters you discarded or Tributed from your hand or field this turn.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Quick-Play",
+    "attribute": null
+  },
+  "Dragon's Rage": {
+    "name": "Dragon's Rage",
+    "type": "Trap Card",
+    "desc": "Dragon-Type monsters you control inflict piercing Battle Damage when they attack a Defense Position monster.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Continuous",
+    "attribute": null
+  },
+  "Ride of the Valkyries": {
+    "name": "Ride of the Valkyries",
+    "type": "Spell Card",
+    "desc": "Special Summon any number of \"Valkyrie\" monsters with different names from your hand. If you Special Summoned 3 or more monsters with this effect, you take no battle damage until the end of the next turn. During the End Phase of the turn you activated this card, shuffle all monsters you control into the Deck. You can banish this card from your GY; add 1 \"Mischief of the Time Goddess\" from your Deck to your hand. You can only use this effect of \"Ride of the Valkyries\" once per turn.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Normal",
+    "attribute": null
+  },
+  "Valkyrie Dritte": {
+    "name": "Valkyrie Dritte",
+    "type": "Effect Monster",
+    "desc": "If this card is Normal or Special Summoned: You can add 1 \"Valkyrie\" card from your Deck to your hand, except \"Valkyrie Dritte\". You can only use this effect of \"Valkyrie Dritte\" once per turn. Gains 200 ATK for each of your opponent's banished monsters.",
+    "atk": 1000,
+    "def": 1600,
+    "level": 4,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Valkyrie Erste": {
+    "name": "Valkyrie Erste",
+    "type": "Effect Monster",
+    "desc": "If this card is Special Summoned from your hand by a Spell effect: You can target 1 \"Mischief of the Time Goddess\" in your GY; add it to your hand. If you control a \"Valkyrie\" monster other than \"Valkyrie Erste\" (Quick Effect): You can banish 1 monster from your opponent's GY, then this card's ATK becomes equal to the banished monster's original ATK until the end of this turn. You can only use each effect of \"Valkyrie Erste\" once per turn.",
+    "atk": 1600,
+    "def": 1800,
+    "level": 6,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Valkyrie Zweite": {
+    "name": "Valkyrie Zweite",
+    "type": "Effect Monster",
+    "desc": "If this card is Summoned: You can target 1 monster your opponent controls; destroy it. After damage calculation, if this card battled: You can target 1 Continuous Spell in your GY; add it to your hand. You can only use each effect of \"Valkyrie Zweite\" once per turn.",
+    "atk": 1600,
+    "def": 1600,
+    "level": 5,
+    "race": "Fairy",
+    "attribute": "LIGHT"
+  },
+  "Mischief of the Time Goddess": {
+    "name": "Mischief of the Time Goddess",
+    "type": "Spell Card",
+    "desc": "Neither player can activate cards or effects in response to this card's activation. Cannot be activated as Chain Link 2 or higher. At the end of your Battle Phase, if all monsters you control are \"Valkyrie\" monsters (min. 1): Send this card to the GY, also, immediately after this effect resolves, skip to the start of the Battle Phase of your next turn. If you do, you cannot activate \"Mischief of the Time Goddess\" until the end of that turn.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Quick-Play",
+    "attribute": null
+  },
+  "Golden Castle of Stromberg": {
+    "name": "Golden Castle of Stromberg",
+    "type": "Spell Card",
+    "desc": "Once per turn, during your Standby Phase, you must banish 10 cards from the top of your Deck face-down (this is not optional), or this card is destroyed. During your Main Phase: You can Special Summon 1 monster from your Deck that specifically lists the card \"Golden Castle of Stromberg\" in its text. You cannot Normal Summon/Set the turn you activate this effect (even if this card leaves the field). You can only use this effect of \"Golden Castle of Stromberg\" once per turn. When an opponent's monster declares an attack: Destroy the attacking monster, and if you do, inflict damage to your opponent equal to half the ATK that monster had on the field.",
+    "atk": null,
+    "def": null,
+    "level": null,
+    "race": "Field",
+    "attribute": null
+  }
+}
