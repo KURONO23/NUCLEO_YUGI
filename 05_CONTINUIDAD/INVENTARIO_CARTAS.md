@@ -72,3 +72,61 @@
 - **Mirror Force** x1
 - **Imperial Order** x1
 - **Solemn Judgment** x3
+
+---
+
+## 🏛️ NUEVA EXPANSIÓN: ANCIENT SANCTUARY (AST) — PULLS DE 20 CAJAS (480 SOBRES)
+
+### 🌟 Secret Rare (SCR):
+- **The End of Anubis** (AST-000) x8 | Demonio / Efecto | Nivel 6 | **2500 ATK / 0 DEF** | *Anulador supremo de Cementerio*
+- **Invader of Darkness** (AST-111) x7 | Demonio / Efecto | Nivel 8 | **2900 ATK / 2500 DEF**
+
+### ⭐ Ultra Rare (UR):
+- **Enemy Controller** (AST-037) x3 | Magia de Juego Rápido | *El mítico mando de control*
+- **Zaborg the Thunder Monarch** (AST-023) x5 | Trueno / Efecto | Nivel 5 | **2400 ATK / 1000 DEF** | *Destruye 1 monstruo al tributar*
+- **Monster Gate** (AST-038) x5 | Magia Normal | *Invocación especial excavando mazo*
+- **Spirit of the Pharaoh** (AST-062) x6 | Zombi / Efecto | Nivel 6 | **2500 ATK / 2000 DEF**
+- **Blowback Dragon** (AST-022) x4 | Máquina / Efecto | Nivel 6 | **2300 ATK / 1200 DEF** (Cedidos a Joey)
+- **The Agent of Judgment - Saturn** x4 | Hada / Luz | Nivel 6 | 2400 ATK
+- **Stone Statue of the Aztecs** x4 | Roca / Tierra | 2000 DEF
+- **Dark Magic Factory** x5
+- **Archfiend of Gilfer** x3
+- **Gear Golem the Moving Fortress** x4
+
+### 💎 Super Rare (SR) Clave:
+- **Night Assailant** x6 (Volteo: destruye monstruo + recupera volteo)
+- **Drain Shield** x12 (Anula ataque y cura LP)
+- **The First Sarcophagus** x8
+- **Level Limit - Area B** x7
+- **The Sanctuary in the Sky** x11
+- **The Agent of Creation - Venus** x8 & **Mystical Shine Ball** x6
+- **Curse of Vampire** x6
+
+---
+
+## 💀 NUEVA EXPANSIÓN: DARK CRISIS (DCR) — PULLS DE 20 CAJAS (480 SOBRES)
+
+### 🌟 Secret Rare (SCR):
+- **Judgment of Anubis** (DCR-105) x6 | Trampa de Contraataque | *Anula destrucción de magia/trampa, destruye monstruo rival e inflige su ATK en daño*
+- **Mirage Knight** x7 | Guerrero / Fusión | 2800 ATK
+
+### ⭐ Ultra Rare (UR):
+- **Reflect Bounder** (DCR-012) x6 | Máquina / Efecto | Nivel 4 | 1700 ATK / 1000 DEF | *Refleja daño de batalla*
+- **Vampire Lord** (DCR-000) x3 | Zombi / Efecto | Nivel 5 | 2000 ATK / 1500 DEF
+- **Dark Master - Zorc** (DCR-082) x3 | Ritual / Demonio | 2700 ATK / 1500 DEF
+- **Exodia Necross** x4
+- **Shinato, King of a Higher Plane** x4 | Ritual / Hada | 3300 ATK
+- **Butterfly Dagger - Elma** x3
+- **Cost Down** x4
+- **Terrorking Archfiend** x3
+- **Guardian Ceal** x5
+- **Darkflare Knight** x4
+
+### 💎 Super Rare (SR) Clave:
+- **D.D. Warrior Lady** (DCR-027) x10 (¡Pack completo para Maksu y Joey!)
+- **Skill Drain** (DCR-049) x6 | Trampa Continua | *Paga 1000 LP: Anula todos los efectos de monstruos en campo*
+- **Spell Canceller** (DCR-105) x5 | Máquina / Efecto | Nivel 5 | 1800 ATK | *Anula todas las Magias*
+- **Archfiend Soldier** x3 (1900 ATK Nivel 4)
+- **Contract with Exodia** x5
+- **Pandemonium** x13
+

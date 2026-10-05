@@ -8,16 +8,17 @@
 
 ## 🏛️ ESTADO PATRIMONIAL CONSOLIDADO
 
-| Miembro de la Pandilla | Fondo Previo (Crucero) | Gastos Históricos Realizados | Saldo Previo Disponible | Nueva Inyección Maksu (Hong Kong) | Saldo Neto Actual |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Maksu (KURONO)** | 15,290,000 ¥ | *(Ganó 150,000,000 ¥)* | 165,290,000 ¥ | -55,000,000 ¥ (Repartido) | **110,290,000 ¥** |
-| **Joey Wheeler** | 10,400,000 ¥ | -4,400,000 ¥ | 6,000,000 ¥ | +10,000,000 ¥ | **16,000,000 ¥** |
-| **Tristán Taylor** | 10,400,000 ¥ | -3,650,000 ¥ | 6,750,000 ¥ | +10,000,000 ¥ | **16,750,000 ¥** |
-| **Téa Gardner** | 7,200,000 ¥ | -3,900,000 ¥ | 3,300,000 ¥ | +10,000,000 ¥ | **13,300,000 ¥** |
-| **Yugi Muto** | 5,200,000 ¥ | -4,300,000 ¥ | 900,000 ¥ | +10,000,000 ¥ | **10,900,000 ¥** |
-| **Mai Valentine** | *(Independiente)* | -0 ¥ | 0 ¥ | +10,000,000 ¥ | **10,000,000 ¥** |
-| **Abuelo Solomon** | 4,000,000 ¥ | -2,300,000 ¥ | 1,700,000 ¥ | +5,000,000 ¥ | **6,700,000 ¥** |
-| **TOTAL CONSOLIDADO** | **52,490,000 ¥** | **-18,550,000 ¥** | **183,940,000 ¥** | **0 ¥ (Transferencia Interna)** | **183,940,000 ¥** |
+| Miembro de la Pandilla | Fondo Previo (Crucero) | Gastos Históricos Realizados | Saldo Previo Disponible | Nueva Inyección Maksu (Hong Kong) | Premio Oficial KC Grand Champ | Saldo Neto Actual |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Maksu (KURONO)** | 15,290,000 ¥ | *(Ganó 150,000,000 ¥)* | 165,290,000 ¥ | -55,000,000 ¥ (Repartido) | +50,000,000 ¥ (Campeón KC) | **160,290,000 ¥** |
+| **Joey Wheeler** | 10,400,000 ¥ | -4,400,000 ¥ | 6,000,000 ¥ | +10,000,000 ¥ | +15,000,000 ¥ (Subcampeón) | **31,000,000 ¥** |
+| **Tristán Taylor** | 10,400,000 ¥ | -3,650,000 ¥ | 6,750,000 ¥ | +10,000,000 ¥ | -0 ¥ | **16,750,000 ¥** |
+| **Téa Gardner** | 7,200,000 ¥ | -3,900,000 ¥ | 3,300,000 ¥ | +10,000,000 ¥ | -0 ¥ | **13,300,000 ¥** |
+| **Yugi Muto** | 5,200,000 ¥ | -4,300,000 ¥ | 900,000 ¥ | +10,000,000 ¥ | -0 ¥ (Exhibición) | **10,900,000 ¥** |
+| **Mai Valentine** | *(Independiente)* | -0 ¥ | 0 ¥ | +10,000,000 ¥ | -0 ¥ | **10,000,000 ¥** |
+| **Abuelo Solomon** | 4,000,000 ¥ | -2,300,000 ¥ | 1,700,000 ¥ | +5,000,000 ¥ | -0 ¥ | **6,700,000 ¥** |
+| **TOTAL CONSOLIDADO** | **52,490,000 ¥** | **-18,550,000 ¥** | **183,940,000 ¥** | **0 ¥ (Transferencia Interna)** | **+65,000,000 ¥ (KaibaCorp)** | **248,940,000 ¥** |
+
 
 ---
 
@@ -33,7 +34,7 @@
 - **Kawasaki Ninja ZX-6R (Edición Especial Black/Green)**: 1,850,000 ¥ (Pagada de contado).
 - **Equipo de protección integral (2 Cascos Arai + Chaqueta Alpinestars)**: 250,000 ¥.
 - **Aportación y saneamiento de finanzas familiares Taylor**: 1,500,000 ¥.
-- **Gastos de combustible y salidas con Miho y Kotone**: 50,000 ¥.
+- **Gastos de combustible y citas oficiales con Kotone (pareja formal; Miho descartada)**: 50,000 ¥.
 
 ### 3. Téa Gardner (Total gastado: 3,900,000 ¥ | Saldo actual: 13,300,000 ¥)
 - **Fondo Educativo Juilliard / Broadway Intensive**: 1,200,000 ¥.
