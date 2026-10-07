@@ -118,3 +118,79 @@
 2. Comprobación estricta de costes (LP, descartes de mano, materiales desterrados).
 3. Verificación de objetivos (Monstruo individual vs campo entero).
 4. Cálculo matemático exacto de puntos de vida (sin aproximaciones ni daño inventado).
+
+
+---
+
+## ⚖️ SECCIÓN IV: AUDITORÍA DE LA ERA GX — HÉROES ELEMENTALES & REGLAS DE FUSIÓN (JADEN YUKI)
+
+*Auditado bajo supervisión de [AGENTE-5: JUEZ DE REGLAS], [AGENTE-4: DECKBUILDER] y [AGENTE-11: RADAR DE RESPUESTAS]*
+
+### 🦸‍♂️ 1. Monstruos de Fusión & Materiales Estrictos:
+- **Elemental HERO Shining Flare Wingman** (2500 ATK / 2100 DEF | LUZ / Fusión):
+  - **Materiales Estrictos**: `Elemental HERO Flame Wingman` + `Elemental HERO Sparkman`.
+  - ⚠️ **RULING DE COMODINES (King of the Swamp)**:
+    - *King of the Swamp* solo puede sustituir a **UNO** de los materiales nombrados (por ejemplo, puede ser *Flame Wingman*).
+    - El **OTRO** material DEBE ser el monstruo exacto listado: **`Elemental HERO Sparkman`**.
+    - ❌ **ERROR PREVENIDO**: Si *Sparkman* NO está en la mano, campo o cementerio, **NO se puede invocar a Shining Flare Wingman** aunque tengas a *King of the Swamp*.
+  - **Efecto de Aumento**: Gana +300 ATK por CADA monstruo "Elemental HERO" en tu Cementerio.
+  - **Efecto de Batalla**: Al destruir un monstruo por batalla y enviarlo al GY, inflige daño a los LP del rival igual al **ATK original** de ese monstruo.
+
+- **Elemental HERO Thunder Giant** (2400 ATK / 1500 DEF | TIERRA / Fusión):
+  - **Materiales**: `Elemental HERO Sparkman` + `Elemental HERO Clayman`.
+  - *Sustituto válido*: *Clayman* en GY + *King of the Swamp* (como Sparkman).
+  - **Efecto**: Descarta 1 carta de la mano para destruir 1 monstruo boca arriba cuyo ATK original sea menor que su ATK original (2400 ATK).
+
+- **Elemental HERO Flame Wingman** (2100 ATK / 1200 DEF | VIENTO / Fusión):
+  - **Materiales**: `Elemental HERO Avian` + `Elemental HERO Burstinatrix`.
+  - *Sustituto válido*: *Avian* o *Burstinatrix* + *King of the Swamp*.
+
+- **Elemental HERO Tempest** (2800 ATK / 2800 DEF | VIENTO / Fusión):
+  - **Materiales**: `Avian` + `Sparkman` + `Bubbleman`.
+  - **Efecto de Protección**: Puedes mandar 1 carta que controles al Cementerio; por este turno, Tempest **no puede ser destruido en batalla** y el daño de combate se reduce a 0.
+
+- **Elemental HERO Wildedge** (2600 ATK / 2300 DEF | TIERRA / Fusión):
+  - **Materiales**: `Elemental HERO Wildheart` + `Elemental HERO Bladedge`.
+  - *Sustituto válido*: *Wildheart* + *King of the Swamp* (como Bladedge).
+  - **Efecto**: Esta carta puede atacar a **TODOS** los monstruos que controle tu adversario, 1 vez a cada uno, en la misma Battle Phase.
+
+- **Elemental HERO Phoenix Enforcer** (2100 ATK / 1200 DEF | FUEGO / Fusión):
+  - **Materiales**: `Elemental HERO Avian` + `Elemental HERO Burstinatrix`.
+  - **Efecto**: No puede ser destruido en batalla.
+
+- **Elemental HERO Shining Phoenix Enforcer** (2500 ATK / 2100 DEF | FUEGO / Fusión):
+  - **Materiales**: `Elemental HERO Phoenix Enforcer` + `Elemental HERO Sparkman`.
+  - **Efecto**: Gana +300 ATK por cada HÉROE Elemental en el GY. No puede ser destruido en batalla.
+
+---
+
+### 🔍 2. Efectos de Monstruos Clave de la Era GX:
+- **Elemental HERO Stratos** (1800 ATK | VIENTO / Guerrero):
+  - Al ser Invocado de Modo Normal o Especial: Elige 1 efecto:
+    1. Destruye Magias/Trampas en el campo hasta la cantidad de otros monstruos "HERO" que controles.
+    2. Añade 1 monstruo "HERO" de tu Deck a tu mano.
+- **Elemental HERO Blazeman** (1200 ATK | FUEGO / Guerrero):
+  - Efecto 1: Al ser Invocado Normal o Especial: Añade 1 `Polymerization` de tu Deck a la mano.
+  - Efecto 2: Manda 1 monstruo "Elemental HERO" del Deck al GY (excepto Blazeman): Esta carta toma el Atributo, ATK y DEF de ese monstruo hasta la End Phase. (Restricción: No puedes Invocar de Modo Especial por el resto del turno, excepto por Fusión).
+- **Elemental HERO Wildheart** (1500 ATK | TIERRA / Guerrero):
+  - **Inmunidad Total**: No es afectado por los efectos de Cartas de Trampa (inmune a *Mirror Force, Bottomless, Torrential, Sakuretsu, Dimensional Prison*).
+- **Card Trooper** (400 ATK | TIERRA / Máquina):
+  - Una vez por turno: Manda hasta 3 cartas del tope de tu Deck al GY. Gana 500 ATK por cada carta enviada hasta la End Phase (alcanza hasta 1900 ATK).
+  - Si esta carta que controlas es destruida y enviada a tu GY: Roba 1 carta.
+- **Neo-Spacian Grand Mole** (900 ATK | TIERRA / Roca):
+  - Al inicio del Damage Step, si batalla con un monstruo del adversario: Puedes regresar a AMBOS monstruos a las manos de sus dueños (no destruye, no selecciona, esquiva efectos de destrucción).
+- **King of the Swamp** (500 ATK | AGUA / Aqua):
+  - Descártalo al GY para añadir 1 `Polymerization` de tu Deck a la mano.
+  - Puedes usar esta carta como sustituto de 1 Material de Fusión nombrado específicamente. El resto de materiales deben ser correctos.
+
+---
+
+### 📜 3. Magias de Fusión & Reciclaje:
+- **Future Fusion**:
+  - Muestra 1 Monstruo de Fusión de tu Extra Deck y manda sus materiales desde tu Deck al GY.
+  - En tu 2da Standby Phase después de activarla: Invoca ese Monstruo de Fusión (es Invocación por Fusión).
+  - Si esta carta deja el campo, destruye al monstruo. Si el monstruo es destruido, destruye esta carta.
+- **Miracle Fusion**:
+  - Invoca por Fusión 1 Monstruo de Fusión "Elemental HERO" desterrando los materiales de tu campo o Cementerio.
+- **Pot of Avarice**:
+  - **Requisito Estricto**: Selecciona **EXACTAMENTE 5 monstruos** en tu Cementerio. Barájalos en el Deck y roba 2 cartas. Si hay menos de 5, NO se puede activar.

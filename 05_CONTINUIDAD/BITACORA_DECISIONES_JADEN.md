@@ -194,3 +194,27 @@ Este archivo registra de forma inmutable cada una de tus decisiones, tus diálog
   - Destruyó al monstruo boca abajo de Abidos (*Pharaoh's Servant*, 900 DEF) y atacó directo.
   - En el Turno 3, Abidos no tuvo recursos para responder ante la velocidad moderna de la baraja V2.4. Jaden invocó a *Elemental HERO Stratos* y liquidó los Puntos de Vida de Abidos en Turno 4 con un asalto total.
 - **Consecuencia**: Abidos comprende que sus sirvientes en el antiguo Egipto se dejaban ganar por reverencia y reconoce que Jaden es un verdadero maestro del duelo. Abidos regresa en paz al reino de las sombras sin reclamar llaves. Récord invicto de Jaden sube a 12-0.
+
+
+### Decisión 46: Derrota de Titan (El 6.º Jinete Aniquilado con OTK)
+- **Contexto**: Titan, poseído por el verdadero poder de las Sombras, desafió a Jaden en el coliseo del bosque nocturno con un mazo Archfiend/Pandemonium.
+- **Acción (Duelo Auditado & Reglas Estrictas)**:
+  - **Turno 1 (Jaden)**: Activó *Graceful Charity* (robando Wildheart, Miracle Fusion y King of the Swamp; descartando Clayman y Bottomless). Invocó a *Blazeman* (buscando *Polymerization*). Fusionó a *Wildheart* + *King of the Swamp* (como Bladedge) para traer a **Elemental HERO Wildedge** (2600 ATK). Colocó a *Solemn Judgment* en retaguardia.
+  - **Turno 2 (Titan)**: Activó *Pandemonium* e invocó a *Archfiend Soldier* (1900 ATK). Al intentar destruir a Wildedge con *Tribute to the Doomed*, Jaden encadenó **Solemn Judgment** pagando la mitad de sus LP (4000 -> 2000 LP) para anularla y destruirla. Titan destruyó a Blazeman en batalla (dejando a Jaden en 1300 LP y cargando el 4.º monstruo al GY).
+  - **Turno 3 (Jaden)**: Jaden robó *Heavy Storm*. Activó *Heavy Storm*, barriendo *Pandemonium* y las 2 cartas Set de Titan. Activó *Miracle Fusion* desterrando a *Clayman* + *King of the Swamp* (como Sparkman) para invocar a **Elemental HERO Thunder Giant** (2400 ATK). Descartó a *Pot of Avarice* para activar el efecto de Thunder Giant, destruyendo al *Archfiend Soldier* de Titan. Con el campo vacío, Wildedge (2600 ATK) y Thunder Giant (2400 ATK) conectaron ataques directos combinados por 5000 puntos de daño.
+- **Consecuencia**: Titan derrotado con OTK (0 LP). El artefacto de las sombras se destruye. Las 7 Llaves de los Misterios permanecen a salvo. El récord de Jaden asciende a **13 Victorias - 0 Derrotas (100% Invicto)**. 6 de los 7 Jinetes han sido eliminados.
+
+
+### Decisión 47: La Incorporación de Chazz Princeton ("Hora de Chazzear")
+- **Contexto**: Tras la tarde en la playa del faro con Syrus, Chumley, Alexis y Bastion, Jaden divisó a Chazz Princeton observando apartado en los riscos.
+- **Acción**: Jaden se acercó y lo invitó formalmente a unirse al grupo para comer sándwiches dorados y compartir la velada, rompiendo la barrera de su orgullo.
+- **Consecuencia**: Chazz acepta a regañadientes entre refunfuños y su clásico grito de guerra ("¡Chazz it up! / ¡Uno, diez, cien, mil, Manjoume Thunder!"). Chazz queda plenamente integrado al núcleo fraternal de Slifer Red como el rival-amigo oficial del grupo.
+
+
+### Decisión 48: Victoria Final contra Amnael / Profesor Banner & Fin de los Jinetes de las Sombras
+- **Contexto**: Jaden acudió a las ruinas del Dormitorio Abandonado tras la carta dejada por el Profesor Banner con Pharaoh, enfrentando al 7.º y último Jinete de las Sombras: Amnael el Alquimista.
+- **Acción (Duelo Auditado & Reglas Estrictas)**:
+  - **Turno 1 (Jaden)**: Invocó a *Sparkman* (1600 ATK) y colocó a *Mirror Force* y *Magic Cylinder* en retaguardia.
+  - **Turno 2 (Amnael)**: Activó *Macro Cosmos* (invocando a *Helios* con 0 ATK) e invocó a *Golden Homunculus* (1500 ATK). Al declarar ataque potenciado con *Rush Recklessly* (2200 ATK) sobre Sparkman, Jaden activó **Magic Cylinder**, negando el ataque y reflejando 2200 de daño directo a Amnael (LP de Amnael: 4000 -> 1800 LP).
+  - **Turno 3 (Jaden)**: Jaden robó *Mystical Space Typhoon*. Activó *MST*, destruyendo a *Macro Cosmos*. Invocó de Modo Normal a **Elemental HERO Stratos** (1800 ATK), activando su efecto al controlar a Sparkman para destruir la carta boca abajo de Amnael. En la Fase de Batalla: Stratos destruyó a *Golden Homunculus* (300 de daño; Amnael a 1500 LP) y Sparkman destruyó a *Helios* (1600 - 0 = 1600 de daño; Amnael a 0 LP).
+- **Consecuencia**: Victoria Perfecta de Jaden (4000 LP vs 0 LP). Los 7 Jinetes de las Sombras han sido completamente derrotados. Jaden hereda el Libro Alquímico de Amnael y la custodia de Pharaoh (con el espíritu incorpóreo de Banner flotando a su lado). Las 7 Llaves de los Misterios quedan a salvo y el récord invicto de Jaden se eleva a **14 Victorias - 0 Derrotas (100% Invicto)**.
