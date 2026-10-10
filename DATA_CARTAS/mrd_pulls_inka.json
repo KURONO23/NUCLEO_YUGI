@@ -1,0 +1,386 @@
+[
+  {
+    "sobre": 1,
+    "d20": 4,
+    "calidad": "PIFIA / MALA SUERTE",
+    "cartas": [
+      "Pifia: Rara menor (Tremendous Fire (Rara))",
+      "Block Attack (Rara)",
+      "Bat",
+      "Little Chimera",
+      "Giga-Tech Wolf",
+      "Just Desserts",
+      "Hane-Hane",
+      "Ancient Elf",
+      "Armored Glass"
+    ]
+  },
+  {
+    "sobre": 2,
+    "d20": 2,
+    "calidad": "PIFIA / MALA SUERTE",
+    "cartas": [
+      "Pifia: Rara menor (Share the Pain (Rara))",
+      "Mask of Darkness (Rara)",
+      "Armored Glass",
+      "Hoshiningen",
+      "Little Chimera",
+      "Bat",
+      "The Cheerful Coffin",
+      "Giga-Tech Wolf",
+      "Ancient Elf"
+    ]
+  },
+  {
+    "sobre": 3,
+    "d20": 17,
+    "calidad": "EXITO NOTABLE",
+    "cartas": [
+      "Witch of the Black Forest (Super Rara)",
+      "Jirai Gumo (Rara - 2200 ATK)",
+      "Little Chimera",
+      "Hoshiningen",
+      "Witch's Apprentice",
+      "The Cheerful Coffin",
+      "Just Desserts",
+      "Bat",
+      "Bladefly"
+    ]
+  },
+  {
+    "sobre": 4,
+    "d20": 12,
+    "calidad": "EXITO ESTANDAR",
+    "cartas": [
+      "Sanga of the Thunder (Rara - 2600 ATK)",
+      "Labyrinth Wall (Rara - 3000 DEF)",
+      "Just Desserts",
+      "Ancient Elf",
+      "Hane-Hane",
+      "Armored Glass",
+      "Witch's Apprentice",
+      "Milus Radiant",
+      "Thunder Kid"
+    ]
+  },
+  {
+    "sobre": 5,
+    "d20": 10,
+    "calidad": "EXITO ESTANDAR",
+    "cartas": [
+      "Suijin (Rara - 2500 ATK)",
+      "Princess of Tsurugi (Rara)",
+      "Witch's Apprentice",
+      "Thunder Kid",
+      "Hane-Hane",
+      "Star Boy",
+      "Ancient Elf",
+      "Bat",
+      "Armored Glass"
+    ]
+  },
+  {
+    "sobre": 6,
+    "d20": 2,
+    "calidad": "PIFIA / MALA SUERTE",
+    "cartas": [
+      "Pifia: Rara menor (Tremendous Fire (Rara))",
+      "Princess of Tsurugi (Rara)",
+      "Bladefly",
+      "Bat",
+      "Giga-Tech Wolf",
+      "Little Chimera",
+      "Crawling Dragon #2 (1600 ATK)",
+      "Ancient Elf",
+      "Hoshiningen"
+    ]
+  },
+  {
+    "sobre": 7,
+    "d20": 9,
+    "calidad": "REGULAR",
+    "cartas": [
+      "Block Attack (Rara)",
+      "White Magical Hat (Rara - 1000 ATK)",
+      "Hoshiningen",
+      "Little Chimera",
+      "Ancient Elf",
+      "Bat",
+      "Hane-Hane",
+      "Armored Glass",
+      "The Cheerful Coffin"
+    ]
+  },
+  {
+    "sobre": 8,
+    "d20": 13,
+    "calidad": "EXITO ESTANDAR",
+    "cartas": [
+      "Suijin (Rara - 2500 ATK)",
+      "Tremendous Fire (Rara)",
+      "Crawling Dragon #2 (1600 ATK)",
+      "Milus Radiant",
+      "Ancient Elf",
+      "Just Desserts",
+      "Little Chimera",
+      "Hane-Hane",
+      "Thunder Kid"
+    ]
+  },
+  {
+    "sobre": 9,
+    "d20": 6,
+    "calidad": "REGULAR",
+    "cartas": [
+      "White Magical Hat (Rara - 1000 ATK)",
+      "Kazejin (Rara - 2400 ATK)",
+      "Thunder Kid",
+      "Penguin Soldier",
+      "The Cheerful Coffin",
+      "Armored Glass",
+      "Just Desserts",
+      "Crawling Dragon #2 (1600 ATK)",
+      "Milus Radiant"
+    ]
+  },
+  {
+    "sobre": 10,
+    "d20": 7,
+    "calidad": "REGULAR",
+    "cartas": [
+      "Mask of Darkness (Rara)",
+      "Block Attack (Rara)",
+      "Star Boy",
+      "Crawling Dragon #2 (1600 ATK)",
+      "Hane-Hane",
+      "Witch's Apprentice",
+      "Penguin Soldier",
+      "Giga-Tech Wolf",
+      "Bladefly"
+    ]
+  },
+  {
+    "sobre": 11,
+    "d20": 7,
+    "calidad": "REGULAR",
+    "cartas": [
+      "Tremendous Fire (Rara)",
+      "Share the Pain (Rara)",
+      "Hane-Hane",
+      "Witch's Apprentice",
+      "Thunder Kid",
+      "Milus Radiant",
+      "Penguin Soldier",
+      "The Cheerful Coffin",
+      "Crawling Dragon #2 (1600 ATK)"
+    ]
+  },
+  {
+    "sobre": 12,
+    "d20": 4,
+    "calidad": "PIFIA / MALA SUERTE",
+    "cartas": [
+      "Pifia: Rara menor (Tremendous Fire (Rara))",
+      "Suijin (Rara - 2500 ATK)",
+      "Bat",
+      "Penguin Soldier",
+      "Ancient Elf",
+      "Witch's Apprentice",
+      "Armored Glass",
+      "Giga-Tech Wolf",
+      "Milus Radiant"
+    ]
+  },
+  {
+    "sobre": 13,
+    "d20": 19,
+    "calidad": "EXITO NOTABLE",
+    "cartas": [
+      "Tribute to The Doomed (Super Rara)",
+      "Kazejin (Rara - 2400 ATK)",
+      "Witch's Apprentice",
+      "Hoshiningen",
+      "Hane-Hane",
+      "Star Boy",
+      "The Cheerful Coffin",
+      "Armored Glass",
+      "Giga-Tech Wolf"
+    ]
+  },
+  {
+    "sobre": 14,
+    "d20": 12,
+    "calidad": "EXITO ESTANDAR",
+    "cartas": [
+      "Jirai Gumo (Rara - 2200 ATK)",
+      "White Magical Hat (Rara - 1000 ATK)",
+      "Hoshiningen",
+      "Star Boy",
+      "Milus Radiant",
+      "The Cheerful Coffin",
+      "Penguin Soldier",
+      "Bat",
+      "Just Desserts"
+    ]
+  },
+  {
+    "sobre": 15,
+    "d20": 6,
+    "calidad": "REGULAR",
+    "cartas": [
+      "Block Attack (Rara)",
+      "Sanga of the Thunder (Rara - 2600 ATK)",
+      "Giga-Tech Wolf",
+      "Crawling Dragon #2 (1600 ATK)",
+      "Just Desserts",
+      "Armored Glass",
+      "The Cheerful Coffin",
+      "Thunder Kid",
+      "Ancient Elf"
+    ]
+  },
+  {
+    "sobre": 16,
+    "d20": 15,
+    "calidad": "EXITO NOTABLE",
+    "cartas": [
+      "Heavy Storm (Super Rara)",
+      "Mask of Darkness (Rara)",
+      "Ancient Elf",
+      "Thunder Kid",
+      "Star Boy",
+      "Hane-Hane",
+      "Penguin Soldier",
+      "Hoshiningen",
+      "Just Desserts"
+    ]
+  },
+  {
+    "sobre": 17,
+    "d20": 1,
+    "calidad": "PIFIA / MALA SUERTE",
+    "cartas": [
+      "Pifia: Rara menor (Block Attack (Rara))",
+      "Jirai Gumo (Rara - 2200 ATK)",
+      "Bat",
+      "Armored Glass",
+      "Star Boy",
+      "Crawling Dragon #2 (1600 ATK)",
+      "The Cheerful Coffin",
+      "Thunder Kid",
+      "Hoshiningen"
+    ]
+  },
+  {
+    "sobre": 18,
+    "d20": 13,
+    "calidad": "EXITO ESTANDAR",
+    "cartas": [
+      "Suijin (Rara - 2500 ATK)",
+      "White Magical Hat (Rara - 1000 ATK)",
+      "Hane-Hane",
+      "Hoshiningen",
+      "Just Desserts",
+      "Crawling Dragon #2 (1600 ATK)",
+      "Penguin Soldier",
+      "Little Chimera",
+      "Bat"
+    ]
+  },
+  {
+    "sobre": 19,
+    "d20": 20,
+    "calidad": "NATURAL 20 (CRITICO ROTUNDO)",
+    "cartas": [
+      "B. Skull Dragon (Ultra Rara - 3200 ATK)",
+      "Share the Pain (Rara)",
+      "Hane-Hane",
+      "Star Boy",
+      "The Cheerful Coffin",
+      "Bladefly",
+      "Bat",
+      "Armored Glass",
+      "Little Chimera"
+    ]
+  },
+  {
+    "sobre": 20,
+    "d20": 20,
+    "calidad": "NATURAL 20 (CRITICO ROTUNDO)",
+    "cartas": [
+      "Change of Heart (Ultra Rara)",
+      "Labyrinth Wall (Rara - 3000 DEF)",
+      "The Cheerful Coffin",
+      "Thunder Kid",
+      "Penguin Soldier",
+      "Hoshiningen",
+      "Star Boy",
+      "Giga-Tech Wolf",
+      "Ancient Elf"
+    ]
+  },
+  {
+    "sobre": 21,
+    "d20": 20,
+    "calidad": "NATURAL 20 (CRITICO ROTUNDO)",
+    "cartas": [
+      "Time Wizard (Ultra Rara)",
+      "White Magical Hat (Rara - 1000 ATK)",
+      "Hoshiningen",
+      "Giga-Tech Wolf",
+      "Just Desserts",
+      "Milus Radiant",
+      "Little Chimera",
+      "Witch's Apprentice",
+      "Bat"
+    ]
+  },
+  {
+    "sobre": 22,
+    "d20": 12,
+    "calidad": "EXITO ESTANDAR",
+    "cartas": [
+      "Princess of Tsurugi (Rara)",
+      "Sanga of the Thunder (Rara - 2600 ATK)",
+      "Armored Glass",
+      "Little Chimera",
+      "Star Boy",
+      "The Cheerful Coffin",
+      "Milus Radiant",
+      "Thunder Kid",
+      "Hane-Hane"
+    ]
+  },
+  {
+    "sobre": 23,
+    "d20": 6,
+    "calidad": "REGULAR",
+    "cartas": [
+      "Mask of Darkness (Rara)",
+      "Kazejin (Rara - 2400 ATK)",
+      "The Cheerful Coffin",
+      "Witch's Apprentice",
+      "Thunder Kid",
+      "Bladefly",
+      "Armored Glass",
+      "Ancient Elf",
+      "Star Boy"
+    ]
+  },
+  {
+    "sobre": 24,
+    "d20": 7,
+    "calidad": "REGULAR",
+    "cartas": [
+      "Share the Pain (Rara)",
+      "Princess of Tsurugi (Rara)",
+      "Just Desserts",
+      "Bladefly",
+      "The Cheerful Coffin",
+      "Hane-Hane",
+      "Thunder Kid",
+      "Star Boy",
+      "Hoshiningen"
+    ]
+  }
+]
