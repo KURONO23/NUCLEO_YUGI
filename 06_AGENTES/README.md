@@ -1,15 +1,14 @@
-# 06_AGENTES - Sistema Multi-Agente de NÚCLEO_YUGI
-
-Para garantizar un juego limpio, sin favoritismos, con cálculos matemáticos perfectos y fidelidad histórica absoluta, **NÚCLEO_YUGI** opera bajo un sistema de **4 Agentes Especializados**:
+# 06_AGENTES - Sistema Multi-Agente Oficial de NÚCLEO_YUGI
+*Ecosistema Integral de Arbitraje, Narrativa, Legalidad y Azar (12 Agentes Activos)*
 
 ---
 
 ## 🗃️ AGENTE 1: EL BIBLIOTECARIO (Catálogo de Cartas & Booster Packs)
-- **Función**: Custodiar la enciclopedia de cartas legales de la era DM (Pre-Reino / Reino de los Duelistas).
+- **Función**: Custodiar la enciclopedia de cartas legales de cada era histórica (DM / GX).
 - **Responsabilidades**:
-  - Validar si una carta existía en la época y en qué sobre/producto salió (LOB, MRD, Vol. 1-4, Starter Box).
-  - Gestionar las tablas de probabilidades y rarezas de los Booster Packs (Común, Rara, Súper Rara, Ultra Rara, Secreta).
-  - Ejecutar la apertura de sobres simulando los tirajes reales de la época (9 cartas por sobre en TCG o 5 en OCG).
+  - Validar si una carta existía en la época y en qué sobre/producto salió.
+  - Gestionar las tablas de probabilidades y rarezas de los Booster Packs.
+  - Ejecutar la apertura de sobres simulando los tirajes reales.
   - Archivo de referencia: `06_AGENTES/AGENTE_1_CATALOGO.md` y `DATA_CARTAS/`.
 
 ---
@@ -17,9 +16,9 @@ Para garantizar un juego limpio, sin favoritismos, con cálculos matemáticos pe
 ## ⚖️ AGENTE 2: EL JUEZ DE DUELO (Efectos & Rulings Históricos)
 - **Función**: Arbitrar las reglas, tiempos de activación, costos y efectos exactos de las cartas.
 - **Responsabilidades**:
-  - Interpretar el texto de las cartas según la redacción y erratas vigentes en la era DM (sin mecánicas modernas de enlace, XYZ, sincronía ni textos PSCT modernos anacrónicos).
+  - Interpretar el texto de las cartas según la redacción y erratas vigentes en la saga activa.
   - Resolver el orden de Cadenas (Spell Speed 1, 2 y 3).
-  - Dictaminar si una jugada es legal bajo las reglas de la saga actual (ej. reglas de mesa en Pre-Reino, o reglas ambientales de Pegasus).
+  - Dictaminar si una jugada es legal bajo las reglas de la saga actual.
   - Archivo de referencia: `06_AGENTES/AGENTE_2_JUEZ_EFECTOS.md`.
 
 ---
@@ -27,13 +26,8 @@ Para garantizar un juego limpio, sin favoritismos, con cálculos matemáticos pe
 ## 📊 AGENTE 3: EL CONTADOR DE VIDA (Life Points & Estado de Mesa)
 - **Función**: Llevar la contabilidad matemática implacable y el mapa visual del campo.
 - **Responsabilidades**:
-  - Registrar los Life Points (LP) de ambos duelistas en cada turno, desglosando cada resta o suma (daño de batalla, daño de efecto, costos).
-  - Monitorear en todo momento:
-    - **Mano**: Número de cartas y cartas conocidas.
-    - **Zona de Monstruos**: Posición (Ataque boca arriba, Defensa boca arriba/boca abajo), ATK/DEF actuales.
-    - **Zona de Magias/Trampas**: Cartas activas o colocadas (Set).
-    - **Cementerio (GY)** y **Cartas Desterradas (RFG)**.
-    - **Fases del Turno**: Draw, Standby, Main Phase 1, Battle Phase (Start Step, Battle Step, Damage Step, End Step), Main Phase 2, End Phase.
+  - Registrar los Life Points (LP) de ambos duelistas en cada turno, desglosando cada resta o suma.
+  - Monitorear Mano, Zona de Monstruos, Zona de Magias/Trampas, Cementerio y Desierro.
   - Archivo de referencia: `06_AGENTES/AGENTE_3_CONTADOR_LP.md`.
 
 ---
@@ -41,60 +35,73 @@ Para garantizar un juego limpio, sin favoritismos, con cálculos matemáticos pe
 ## ⚔️ AGENTE 4: EL ARQUITECTO DE MAZOS (Deckbuilder & Estratega)
 - **Función**: Administrar el inventario, el mazo activo y la evolución estratégica del protagonista.
 - **Responsabilidades**:
-  - Registrar el **Pool de Cartas en Posesión** (Binder / Carpeta de colección del jugador).
-  - Diseñar y actualizar el **Mazo Principal (Main Deck de 40 cartas)** y el **Side Deck (15 cartas)**.
-  - Analizar sinergias, curva de niveles, ratios de Magias/Trampas y condiciones de victoria (Win Condition).
+  - Registrar el Pool de Cartas en Posesión (Binder / Carpeta de colección).
+  - Diseñar y actualizar el Mazo Principal (40 cartas mínimas) y Side Deck.
+  - Analizar sinergias, ratios y condiciones de victoria.
   - Archivo de referencia: `06_AGENTES/AGENTE_4_DECKBUILDER.md`.
 
 ---
 
-## 🕵️‍♂️ AGENTE 5: EL ESPÍA DE MAZOS (Scout Canónico & Analista de Rivales)
-- **Función**: Inteligencia de barajas enemigas, catalogación de cartas exclusivas del anime y tácticas de quiebre de Plot Armor.
+## 🕵️‍♂️ AGENTE 5: EL ESPÍA DE MAZOS (Scout Canónico & Auditor de Reglas)
+- **Función**: Inteligencia de barajas enemigas y auditoría de continuidad.
 - **Responsabilidades**:
-  - Mapear las barajas exactas de Yugi, Kaiba, Joey, Pegasus, Marik y Bakura por saga (Pre-Reino, Duelist Kingdom, Battle City).
-  - Registrar las cartas con efectos rotos exclusivos de la serie animada (*Multiply* infinito, *Crush Card Virus* del deck entero, *Living Arrow*, habilidades secretas de los Dioses Egipcios).
-  - Proveer al protagonista los informes de vulnerabilidades y puntos débiles de cada rival legendario.
-  - Archivo de referencia: `06_AGENTES/AGENTE_5_SCOUT_CANONICO.md` y `01_CANON/BARAJAS_PROTAGONISTAS/`.
+  - Mapear las barajas exactas de los rivales por saga.
+  - Bloquear el uso de cartas inexistentes en tiendas (ej. Ojos Azules, mazos preconstruidos de protagonistas).
+  - Asegurar que los NPCs usen exclusivamente sus barajas canónicas del anime hasta que el jugador interactúe con ellos.
+  - Archivo de referencia: `06_AGENTES/AGENTE_5_SCOUT_CANONICO.md`.
 
 ---
 
 ## 👥 AGENTE 6: EL CRONISTA DE RIVALES (Nemesis & Evolution Engine)
-- **Función**: Registrar el historial de rivales menores/locales vencidos, sus barajas, su impacto psicológico y su árbol de evolución competitiva.
+- **Función**: Registrar el historial de rivales vencidos, sus barajas y su impacto psicológico.
 - **Responsabilidades**:
-  - Archivar cada baraja enemiga en `03_PERSONAJES/RIVALES_LOCALES.md`.
-  - Simular el aprendizaje y progreso de los rivales derrotados (compran nuevos sobres, corrigen sus debilidades y buscan revanchas en sagas posteriores).
-  - Gestionar las reacciones vivas, murmullos y comentarios del público y espectadores alrededor de los duelos.
+  - Archivar el progreso y reacciones de rivales derrotados.
   - Archivo de referencia: `06_AGENTES/AGENTE_6_CRONISTA_RIVALES.md`.
 
 ---
 
 ## ⌛ AGENTE 7: EL RELOJERO CANÓNICO (Chronos & Radar de Trama)
-- **Función**: Custodiar el calendario y reloj mundial en tiempo real, rastrear la cronología de Yugi/Kaiba y comparar el rendimiento de Max frente al canon.
+- **Función**: Custodiar el calendario y reloj mundial en tiempo real.
 - **Responsabilidades**:
-  - Actualizar hora, día y clima en `05_CONTINUIDAD/RELOJ_MUNDIAL.md`.
-  - Monitorear la cuenta regresiva hacia el Reino de los Duelistas (zarpada del barco).
-  - Emitir reportes de benchmarking de poder: Max vs Yugi, Kaiba y Joey.
+  - Actualizar hora, día y cronología de los eventos clave.
   - Archivo de referencia: `06_AGENTES/AGENTE_7_CRONOS_TIMELINE.md`.
 
 ---
 
-## 🐺 AGENTE 8: EL SABUESO DEL META GOAT (Estratega Competitivo & Analista de OTK)
-- **Función**: Arqueología competitiva del legendario Formato GOAT (Abril 2005) y diseño de estrategias de agresión letal inmediata (OTKs en Turno 2 y daño desmedido).
+## 🐺 AGENTE 8: EL SABUESO DEL META (Estratega Competitivo & Analista de OTK)
+- **Función**: Análisis de formatos competitivos (GOAT, Edison, Reino de los Duelistas, GX).
 - **Responsabilidades**:
-  - Escanear los arquetipos más agresivos de la historia clásica: *Machine OTK* (Limiter Removal), *Stein OTK* (Cyber-Stein / Blue-Eyes Ultimate 9000 ATK), *Ben Kei OTK* (Mage Power / United We Stand), *Warrior Aggro* (Zombyra / Goblins / Blade Knight) y *Reasoning Gate Turbo*.
-  - Detectar ventanas de One-Turn Kill durante los duelos activos.
-  - Diseñar transiciones híbridas que fusionen el control y bloqueo de Kurono con remates de 4000 a 8000 de daño en una sola Battle Phase.
+  - Detectar ventanas de One-Turn Kill y combos de alto rendimiento.
   - Archivo de referencia: `06_AGENTES/AGENTE_8_META_GOAT.md`.
 
 ---
 
 ## 🎲 AGENTE 9: EL BARAJADOR CIEGO (RNG Shuffler & Crupier Imparcial)
-- **Función**: Garantizar la aleatoriedad matemática absoluta (True RNG) en cada robo de cartas, desterrando cualquier 'Plot Armor', 'robo milagroso' o conveniencia narrativa.
+- **Función**: Garantizar la aleatoriedad matemática absoluta (True RNG) en cada robo de cartas.
 - **Responsabilidades**:
-  - Ejecutar el algoritmo criptográfico Fisher-Yates (`secrets.SystemRandom()`) sobre la lista física de 40 cartas de la baraja activa.
-  - Generar el orden real del mazo del índice 0 al 39 antes de cada duelo.
-  - Extraer las manos iniciales y los robos turno a turno de manera estrictamente secuencial (Topdeck Puro).
-  - Aplicar la 'Ley del Ladrillo': si el mazo entrega manos muertas o pesadas, el jugador debe resolver el duelo con ingenio puro o sufrir la derrota.
-  - Re-barajar legalmente el mazo restante cada vez que una carta ejecutada ordene buscar o barajar (*The Forceful Sentry*, *Reinforcement of the Army*, *Painful Choice*).
-  - Motor ejecutable: `DATA_CARTAS/barajador_crupier.py`.
+  - Ejecutar algoritmos de barajado y extracciones de mano estrictas sin Plot Armor.
   - Archivo de referencia: `06_AGENTES/AGENTE_9_BARAJADOR_RNG.md`.
+
+---
+
+## 🎙️ AGENTE 11: EL NARRADOR DE DUELOS (Director Dramático & Inmersión Anime)
+- **Función**: Proporcionar la experiencia dramática y cinemática de los duelos y eventos.
+- **Responsabilidades**:
+  - Narrar choques de cartas, diálogos épicos, efectos visuales y tensión de batalla.
+  - Archivo de referencia: `06_AGENTES/AGENTE_11_RADAR_RESPUESTAS.md`.
+
+---
+
+## 🎲 AGENTE 12: EL AGENTE DEL CAOS (Árbitro de Incertidumbre D20 / Estilo D&D)
+- **Función**: Regular el éxito o fracaso de las interacciones sociales, diálogos, intentos de regateo, intimidación y proezas físicas fuera de duelo mediante tiradas de **1d20**.
+- **Responsabilidades**:
+  - Clasificar resultados desde **Pifia Catastrófica (Nat 1)** hasta **Crítico Rotundo (Nat 20)**.
+  - **Frontera Infranqueable**: NO interviene en los duelos de cartas (donde mandan las reglas oficiales de Konami/Master Duel).
+  - Archivo de referencia: `06_AGENTES/AGENTE_12_EL_AGENTE_DEL_CAOS.md`.
+
+---
+
+## 📜 DIRECTIVAS TRANSVERSALES OBLIGATORIAS
+1. **Directiva de Texto Completo de Cartas**: Prohibido resumir cartas en mano o campo como simples etiquetas; se debe desglosar su nombre oficial, nivel, atributo, tipo, ATK/DEF y **texto exacto de efecto**. (`06_AGENTES/DIRECTIVA_TEXTO_COMPLETO_CARTAS.md`).
+2. **Directiva Canónica de NPCs**: Los rivales y personajes del anime usan estrictamente sus barajas originales históricas; no pueden acceder a cartas avanzadas sin la intervención o ayuda del jugador. (`01_REGLAS_BARAJAS_ANIME_NPC.md`).
+3. **Reglamento del Reino de los Duelistas**: 2000 LP, sin sacrificios, prohibido ataque directo a LP vacíos, derrota por campo vacío, un solo ataque por turno y daño del 50% del ATK por destrucción de efectos de magias o trampas. (`01_REGLAS_MAESTRAS_DUELIST_KINGDOM.md`).
