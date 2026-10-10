@@ -1,0 +1,386 @@
+[
+  {
+    "sobre": 1,
+    "d20": 12,
+    "calidad": "EXITO ESTANDAR",
+    "cartas": [
+      "Suijin (Rara)",
+      "Tremendous Fire (Rara)",
+      "Bat",
+      "Just Desserts",
+      "Thunder Kid",
+      "Star Boy",
+      "Giga-Tech Wolf",
+      "Hane-Hane",
+      "Crawling Dragon #2"
+    ]
+  },
+  {
+    "sobre": 2,
+    "d20": 16,
+    "calidad": "EXITO NOTABLE",
+    "cartas": [
+      "Magic Jammer (Super Rara)",
+      "Suijin (Rara)",
+      "Thunder Kid",
+      "Little Chimera",
+      "Star Boy",
+      "Bladefly",
+      "Penguin Soldier",
+      "Just Desserts",
+      "The Cheerful Coffin"
+    ]
+  },
+  {
+    "sobre": 3,
+    "d20": 2,
+    "calidad": "PIFIA / MALA SUERTE",
+    "cartas": [
+      "Pifia: Rara menor inservible (Share the Pain (Rara))",
+      "White Magical Hat (Rara)",
+      "Giga-Tech Wolf",
+      "Just Desserts",
+      "Little Chimera",
+      "Star Boy",
+      "Witch's Apprentice",
+      "Armored Glass",
+      "Hane-Hane"
+    ]
+  },
+  {
+    "sobre": 4,
+    "d20": 9,
+    "calidad": "REGULAR",
+    "cartas": [
+      "Tremendous Fire (Rara)",
+      "Suijin (Rara)",
+      "Penguin Soldier",
+      "Ancient Elf",
+      "Milus Radiant",
+      "Little Chimera",
+      "Giga-Tech Wolf",
+      "Hoshiningen",
+      "The Cheerful Coffin"
+    ]
+  },
+  {
+    "sobre": 5,
+    "d20": 16,
+    "calidad": "EXITO NOTABLE",
+    "cartas": [
+      "Sangan (Super Rara)",
+      "White Magical Hat (Rara)",
+      "Armored Glass",
+      "Thunder Kid",
+      "Penguin Soldier",
+      "Milus Radiant",
+      "Giga-Tech Wolf",
+      "Ancient Elf",
+      "Bat"
+    ]
+  },
+  {
+    "sobre": 6,
+    "d20": 16,
+    "calidad": "EXITO NOTABLE",
+    "cartas": [
+      "Heavy Storm (Super Rara)",
+      "Mask of Darkness (Rara)",
+      "Just Desserts",
+      "Penguin Soldier",
+      "Witch's Apprentice",
+      "Bat",
+      "Giga-Tech Wolf",
+      "Little Chimera",
+      "Thunder Kid"
+    ]
+  },
+  {
+    "sobre": 7,
+    "d20": 6,
+    "calidad": "REGULAR",
+    "cartas": [
+      "White Magical Hat (Rara)",
+      "Labyrinth Wall (Rara - 3000 DEF)",
+      "Hane-Hane",
+      "The Cheerful Coffin",
+      "Witch's Apprentice",
+      "Little Chimera",
+      "Penguin Soldier",
+      "Just Desserts",
+      "Thunder Kid"
+    ]
+  },
+  {
+    "sobre": 8,
+    "d20": 14,
+    "calidad": "EXITO ESTANDAR",
+    "cartas": [
+      "Kazejin (Rara)",
+      "Kazejin (Rara)",
+      "Giga-Tech Wolf",
+      "Ancient Elf",
+      "Witch's Apprentice",
+      "The Cheerful Coffin",
+      "Thunder Kid",
+      "Star Boy",
+      "Crawling Dragon #2"
+    ]
+  },
+  {
+    "sobre": 9,
+    "d20": 3,
+    "calidad": "PIFIA / MALA SUERTE",
+    "cartas": [
+      "Pifia: Rara menor inservible (Tremendous Fire (Rara))",
+      "Suijin (Rara)",
+      "Little Chimera",
+      "Ancient Elf",
+      "Bladefly",
+      "Milus Radiant",
+      "Thunder Kid",
+      "Witch's Apprentice",
+      "Hane-Hane"
+    ]
+  },
+  {
+    "sobre": 10,
+    "d20": 17,
+    "calidad": "EXITO NOTABLE",
+    "cartas": [
+      "Sangan (Super Rara)",
+      "Jirai Gumo (Rara - 2200 ATK)",
+      "Ancient Elf",
+      "Hoshiningen",
+      "Just Desserts",
+      "Star Boy",
+      "Bat",
+      "Witch's Apprentice",
+      "Thunder Kid"
+    ]
+  },
+  {
+    "sobre": 11,
+    "d20": 3,
+    "calidad": "PIFIA / MALA SUERTE",
+    "cartas": [
+      "Pifia: Rara menor inservible (Block Attack (Rara))",
+      "Suijin (Rara)",
+      "Witch's Apprentice",
+      "Star Boy",
+      "Just Desserts",
+      "Giga-Tech Wolf",
+      "Hane-Hane",
+      "Armored Glass",
+      "The Cheerful Coffin"
+    ]
+  },
+  {
+    "sobre": 12,
+    "d20": 20,
+    "calidad": "NATURAL 20 (CRITICO ROTUNDO)",
+    "cartas": [
+      "B. Skull Dragon (Ultra Rara)",
+      "White Magical Hat (Rara)",
+      "Just Desserts",
+      "Bladefly",
+      "Hoshiningen",
+      "Armored Glass",
+      "Bat",
+      "Star Boy",
+      "The Cheerful Coffin"
+    ]
+  },
+  {
+    "sobre": 13,
+    "d20": 9,
+    "calidad": "REGULAR",
+    "cartas": [
+      "Mask of Darkness (Rara)",
+      "Tremendous Fire (Rara)",
+      "Bat",
+      "Giga-Tech Wolf",
+      "Thunder Kid",
+      "Penguin Soldier",
+      "Ancient Elf",
+      "Armored Glass",
+      "Hoshiningen"
+    ]
+  },
+  {
+    "sobre": 14,
+    "d20": 13,
+    "calidad": "EXITO ESTANDAR",
+    "cartas": [
+      "Suijin (Rara)",
+      "Tremendous Fire (Rara)",
+      "Bladefly",
+      "Witch's Apprentice",
+      "Hane-Hane",
+      "Penguin Soldier",
+      "Star Boy",
+      "Hoshiningen",
+      "Just Desserts"
+    ]
+  },
+  {
+    "sobre": 15,
+    "d20": 13,
+    "calidad": "EXITO ESTANDAR",
+    "cartas": [
+      "Jirai Gumo (Rara - 2200 ATK)",
+      "Tremendous Fire (Rara)",
+      "Milus Radiant",
+      "Penguin Soldier",
+      "Bladefly",
+      "Witch's Apprentice",
+      "Ancient Elf",
+      "Thunder Kid",
+      "Crawling Dragon #2"
+    ]
+  },
+  {
+    "sobre": 16,
+    "d20": 3,
+    "calidad": "PIFIA / MALA SUERTE",
+    "cartas": [
+      "Pifia: Rara menor inservible (Share the Pain (Rara))",
+      "Block Attack (Rara)",
+      "Witch's Apprentice",
+      "Just Desserts",
+      "Armored Glass",
+      "Giga-Tech Wolf",
+      "Ancient Elf",
+      "Hoshiningen",
+      "Star Boy"
+    ]
+  },
+  {
+    "sobre": 17,
+    "d20": 15,
+    "calidad": "EXITO NOTABLE",
+    "cartas": [
+      "Kuriboh (Super Rara)",
+      "Suijin (Rara)",
+      "Crawling Dragon #2",
+      "Giga-Tech Wolf",
+      "Thunder Kid",
+      "Bat",
+      "Star Boy",
+      "Milus Radiant",
+      "Ancient Elf"
+    ]
+  },
+  {
+    "sobre": 18,
+    "d20": 15,
+    "calidad": "EXITO NOTABLE",
+    "cartas": [
+      "Heavy Storm (Super Rara)",
+      "Suijin (Rara)",
+      "Thunder Kid",
+      "Little Chimera",
+      "Bat",
+      "Giga-Tech Wolf",
+      "Hoshiningen",
+      "Witch's Apprentice",
+      "Armored Glass"
+    ]
+  },
+  {
+    "sobre": 19,
+    "d20": 15,
+    "calidad": "EXITO NOTABLE",
+    "cartas": [
+      "Kuriboh (Super Rara)",
+      "Suijin (Rara)",
+      "Just Desserts",
+      "Milus Radiant",
+      "Thunder Kid",
+      "Star Boy",
+      "Little Chimera",
+      "Bat",
+      "Ancient Elf"
+    ]
+  },
+  {
+    "sobre": 20,
+    "d20": 15,
+    "calidad": "EXITO NOTABLE",
+    "cartas": [
+      "Magic Jammer (Super Rara)",
+      "Block Attack (Rara)",
+      "Penguin Soldier",
+      "Milus Radiant",
+      "Armored Glass",
+      "Crawling Dragon #2",
+      "Ancient Elf",
+      "The Cheerful Coffin",
+      "Bladefly"
+    ]
+  },
+  {
+    "sobre": 21,
+    "d20": 14,
+    "calidad": "EXITO ESTANDAR",
+    "cartas": [
+      "Jirai Gumo (Rara - 2200 ATK)",
+      "Jirai Gumo (Rara - 2200 ATK)",
+      "Star Boy",
+      "Hoshiningen",
+      "The Cheerful Coffin",
+      "Bat",
+      "Armored Glass",
+      "Bladefly",
+      "Hane-Hane"
+    ]
+  },
+  {
+    "sobre": 22,
+    "d20": 17,
+    "calidad": "EXITO NOTABLE",
+    "cartas": [
+      "Witch of the Black Forest (Super Rara)",
+      "Block Attack (Rara)",
+      "Hane-Hane",
+      "Hoshiningen",
+      "Milus Radiant",
+      "Bladefly",
+      "Bat",
+      "Giga-Tech Wolf",
+      "Just Desserts"
+    ]
+  },
+  {
+    "sobre": 23,
+    "d20": 9,
+    "calidad": "REGULAR",
+    "cartas": [
+      "Share the Pain (Rara)",
+      "Suijin (Rara)",
+      "The Cheerful Coffin",
+      "Bladefly",
+      "Giga-Tech Wolf",
+      "Armored Glass",
+      "Hane-Hane",
+      "Hoshiningen",
+      "Penguin Soldier"
+    ]
+  },
+  {
+    "sobre": 24,
+    "d20": 19,
+    "calidad": "EXITO NOTABLE",
+    "cartas": [
+      "Heavy Storm (Super Rara)",
+      "Tremendous Fire (Rara)",
+      "Ancient Elf",
+      "Armored Glass",
+      "Bat",
+      "The Cheerful Coffin",
+      "Milus Radiant",
+      "Little Chimera",
+      "Witch's Apprentice"
+    ]
+  }
+]
